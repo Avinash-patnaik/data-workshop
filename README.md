@@ -1,73 +1,130 @@
-# Welcome to your Lovable project
+<div align="center">
 
-## Project info
+# Avinash
+### AI Engineer & Data Scientist
 
-**URL**: https://lovable.dev/projects/6c661889-10da-4a2a-8b16-06fffcf0fa71
+*Building intelligent systems that turn complex data into real-world impact.*
 
-## How can I edit this code?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patnaik-avinash-9a5b612aa/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avinashpatnaik1001@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://avinash-patnaik.github.io/data-workshop/)
 
-There are several ways of editing your application.
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=for-the-badge)
 
-**Use Lovable**
+</div>
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/6c661889-10da-4a2a-8b16-06fffcf0fa71) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 👨‍💻 About Me
 
-**Use your preferred IDE**
+I am an **AI Engineer and Data Scientist** with hands-on experience designing, building, and deploying end-to-end AI/ML systems. My work spans the full pipeline — from raw data ingestion and transformation through to model training, evaluation, and production serving. I specialise in applying large language models, NLP techniques, and scalable data engineering practices to solve complex business problems.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- 🌍 Based in **Rome, Italy** — working with international clients across Europe and the US
+- 🤖 Focused on **LLM-powered applications**, **NLP pipelines**, and **MLOps infrastructure**
+- 📊 Experienced in building **ETL pipelines** for structured and unstructured data at scale
+- 🚀 Passionate about bridging the gap between **research and production-grade AI systems**
+- 🔎 Currently exploring **RAG architectures**, **agent frameworks**, and **LLM fine-tuning**
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🛠️ Tech Stack
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### AI & Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-# Step 3: Install the necessary dependencies.
-npm i
+### Data Engineering & ETL
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### MLOps & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+---
+
+## 🧠 Areas of Expertise
+
+```text
+LLMs & Prompt Engineering    ████████████████████░   90%
+NLP & Text Analytics         ███████████████████░░   85%
+Data Engineering & ETL       ███████████████████░░   85%
+MLOps & Pipelines            ████████████████░░░░░   75%
+Model Training & Fine-tuning ███████████████░░░░░░   70%
 ```
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🔬 What I Work On
 
-**Use GitHub Codespaces**
+### 🤖 LLMs & Prompt Engineering
+Designing and deploying LLM-powered applications using OpenAI, Anthropic, and open-source models. Building **RAG pipelines**, **agent workflows**, and **tool-calling integrations** with LangChain and LlamaIndex. Evaluating model outputs and implementing prompt optimization strategies for production reliability.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+### 📊 Data Engineering & ETL
+Architecting scalable ETL pipelines for structured and unstructured data, including multilingual text processing, encoding normalization, and schema validation. Experienced with both batch and streaming data workflows delivering clean, analytics-ready datasets to downstream consumers.
 
-## What technologies are used for this project?
+### 🔤 NLP & Text Analytics
+End-to-end NLP pipeline development covering tokenization, entity recognition, sentiment analysis, classification, and semantic similarity. Applied experience in processing Italian and multilingual corpora, including call center transcripts and survey response data.
 
-This project is built with:
+### ⚙️ MLOps & Pipelines
+Building production ML infrastructure with a focus on reproducibility, observability, and reliability. Covers experiment tracking, model versioning, automated retraining, CI/CD for ML, and Kubernetes-based model serving with drift monitoring.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+## 📈 GitHub Stats
 
-Simply open [Lovable](https://lovable.dev/projects/6c661889-10da-4a2a-8b16-06fffcf0fa71) and click on Share -> Publish.
+<div align="center">
 
-## Can I connect a custom domain to my Lovable project?
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-Yes, you can!
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true)
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true)
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+</div>
+
+---
+
+## 📫 Get In Touch
+
+I am open to consulting engagements, technical collaborations, and AI/ML projects. Feel free to reach out:
+
+| Channel | Link |
+|---|---|
+| 📧 Email | your@email.com |
+| 💼 LinkedIn | linkedin.com/in/yourprofile |
+| 🌐 GitHub | github.com/YOUR_USERNAME |
+
+---
+
+<div align="center">
+
+*"The goal is to turn data into information, and information into insight."*
+
+</div>
