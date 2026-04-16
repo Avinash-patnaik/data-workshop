@@ -117,9 +117,9 @@ I am open to consulting engagements, technical collaborations, and AI/ML project
 
 | Channel | Link |
 |---|---|
-| 📧 Email | your@email.com |
-| 💼 LinkedIn | linkedin.com/in/yourprofile |
-| 🌐 GitHub | github.com/YOUR_USERNAME |
+| 📧 Email | avinashpatnaik1001@gmail.com |
+| 💼 LinkedIn | https://www.linkedin.com/in/patnaik-avinash-9a5b612aa/ |
+| 🌐 GitHub | https://github.com/Avinash-patnaik |
 
 ---
 
